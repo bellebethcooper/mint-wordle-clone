@@ -1,0 +1,19 @@
+{
+  "name": "wordle-clone",
+  "application": {
+    "head": "assets/head.html",
+    "title": "wordle-clone",
+    "icon": "assets/favicon.png"
+  },
+  "external": {
+    "stylesheets": [
+      "assets/style.css"
+    ]
+  },
+  "source-directories": [
+    "source"
+  ],
+  "test-directories": [
+    "tests"
+  ]
+}
